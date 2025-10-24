@@ -28,4 +28,4 @@ This app uses **Streamlit** for the user interface, **PyMuPDF** for text extract
 ---
 
 ## 👨‍💻 Built by
-[kabdellaoui07 on GitHub](https://github.com/kabdellaoui707-bit)
+kabdellaoui707-bit
